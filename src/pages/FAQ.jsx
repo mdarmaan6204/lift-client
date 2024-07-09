@@ -15,39 +15,77 @@ export const FAQ = () => {
           <div className="collapse collapse-arrow join-item">
             <input type="radio" name="my-accordion-4" defaultChecked />
             <div className="collapse-title text-lg md:text-2xl font-bold ">
-              Who can benefit from Prayas75?
+              How do students receive financial assistance?
             </div>
             <div className="collapse-content">
               <p className="font-normal">
-                Prayas75 is dedicated to providing aid and support to
-                financially weaker students of BIT Sindri located in Dhanbad,
-                Jharkhand, India.
+                We have a transparent process where students in need can apply
+                for direct financial aid to cover educational expenses.
               </p>
             </div>
           </div>
           <div className="collapse collapse-arrow join-item">
             <input type="radio" name="my-accordion-4" defaultChecked />
             <div className="collapse-title text-lg md:text-2xl font-bold ">
-              How does Prayas75 use donations?
+              What kind of clothing do you accept?
             </div>
             <div className="collapse-content">
               <p className="font-normal">
-                All donations made to Prayas75 go towards funding our Jubilee
-                Batch Scholarship program under which we distribute Rs. 20,000
-                (Approx $250) per year to 10 students of second, third and
-                fourth year at BIT Sindri. There is no administrative expenses
-                as the core team of Prayas75 picks up that cost personally.
+                We accept gently used clothing suitable for students of all
+                ages.
               </p>
             </div>
           </div>
           <div className="collapse collapse-arrow join-item">
             <input type="radio" name="my-accordion-4" defaultChecked />
             <div className="collapse-title text-lg md:text-2xl font-bold ">
-              How do I donate to Prayas75 towards Jubilee Batch Scholarship?
+              How do you ensure the food items reach those who need them?
             </div>
             <div className="collapse-content">
               <p className="font-normal">
-              Please click "DONATE" button or "Contact Us".
+                We collaborate with local organizations to distribute food
+                donations efficiently to those facing food insecurity.
+              </p>
+            </div>
+          </div>
+
+          <div className="collapse collapse-arrow join-item">
+            <input type="radio" name="my-accordion-4" defaultChecked />
+            <div className="collapse-title text-lg md:text-2xl font-bold ">
+              Is LIFT a registered non-profit organization?
+            </div>
+            <div className="collapse-content">
+              <p className="font-normal">
+                Yes, LIFT is a registered non-profit organization. You can find
+                our registration details on our "About Us" section.
+              </p>
+            </div>
+          </div>
+          <div className="collapse collapse-arrow join-item">
+            <input type="radio" name="my-accordion-4" defaultChecked />
+            <div className="collapse-title text-lg md:text-2xl font-bold ">
+              What happens to donated clothing and food items?
+            </div>
+            <div className="collapse-content">
+              <p className="font-normal">
+                LIFT collaborates with local underprivileged communities to
+                ensure donated clothing reaches those in need. We partner with
+                reputable organizations for efficient food distribution to
+                address food insecurity.
+              </p>
+            </div>
+          </div>
+          <div className="collapse collapse-arrow join-item">
+            <input type="radio" name="my-accordion-4" defaultChecked />
+            <div className="collapse-title text-lg md:text-2xl font-bold ">
+              Who is eligible to receive resources from LIFT?{" "}
+            </div>
+            <div className="collapse-content">
+              <p className="font-normal">
+                LIFT prioritizes underprivileged students facing financial
+                hardship and struggling to access essential educational
+                resources. We work with local organizations to identify students
+                in need.
               </p>
             </div>
           </div>

@@ -22,39 +22,52 @@ export const About = () => {
                 MISSION
               </p>
               <p className="font-normal md:text-lg text-center px-10 ">
-                Our mission is to provide aid and support to financially weaker
-                students of BIT Sindri located in Dhanbad, Jharkhand, India.
+                At LIFT (Learning Includes Everyone For Tomorrow), our mission
+                is to ensure equal access to educational resources for all
+                students. We believe that education is the key to unlocking
+                potential and building a brighter future. We bridge the gap by
+                providing essential resources like clothing, textbooks, and
+                financial assistance, empowering underprivileged students to
+                achieve their academic goals.
               </p>
             </div>
           </div>
           <div className="md:w-5/12 group  md:my-10 my-20">
-          <div className="hover:scale-110 pb-20 duration-300 group-hover:bg-blue-600 group-hover:text-white border-2 bg-slate-200 mx-10 rounded-xl  p-2 h-full">
-          <img
+            <div className="hover:scale-110 pb-20 duration-300 group-hover:bg-blue-600 group-hover:text-white border-2 bg-slate-200 mx-10 rounded-xl  p-2 h-full">
+              <img
                 src={VISION_IMG}
                 className="relative mx-auto -mt-[7rem] w-1/2 "
               ></img>
               <p className="text-2xl md:text-4xl group-hover:text-white   text-blue-600 font-bold text-center -mt-4 md:mt-16 mb-4">
-              VISSION
+                VISSION
               </p>
               <p className="font-normal md:text-lg text-center px-10 ">
-                Prayas75's vision is to uplift financially weaker students at
-                BIT Sindri in Dhanbad, India, by providing essential aid and
-                support.
+                LIFT envisions a future where every student, regardless of
+                background or financial constraints, has the opportunity to
+                thrive in education. We strive to create a world where access to
+                resources is not a barrier to learning. Through continued growth
+                and community support, LIFT aims to empower countless students
+                and contribute to a brighter future for all.
               </p>
             </div>
           </div>
           <div className="md:w-5/12 group  md:my-10 my-20">
-          <div className="hover:scale-110 pb-20 duration-300 group-hover:bg-blue-600 group-hover:text-white border-2 bg-slate-200 mx-10 rounded-xl  p-2 h-full">
-          <img
+            <div className="hover:scale-110 pb-20 duration-300 group-hover:bg-blue-600 group-hover:text-white border-2 bg-slate-200 mx-10 rounded-xl  p-2 h-full">
+              <img
                 src={ACHIEVEMENT_IMG}
                 className="relative mx-auto  -mt-[7rem] w-1/2 "
               ></img>
               <p className="text-2xl md:text-4xl group-hover:text-white   text-blue-600 font-bold text-center -mt-4 md:mt-16 mb-4">
-              ACHIEVEMENT
+                ACHIEVEMENT
               </p>
               <p className="font-normal md:text-lg text-center  px-10">
-                Ten students of BIT Sindri 2019 batch have completed their
-                engineering curriculum with support from our initiative.
+                LIFT is making a tangible difference. In just one year, we've
+                directly supported 10 students with financial aid and
+                educational resources. Additionally, our clothing and book
+                drives have resulted in the distribution of over 200 items,
+                ensuring students have proper attire and essential learning
+                materials. These achievements represent a significant step
+                towards our vision of educational equity.
               </p>
             </div>
           </div>
@@ -103,7 +116,9 @@ export const About = () => {
               difference in my academic journey and for being a crucial part of
               my educational success."
             </p>
-            <p className="font-bold md:text-lg text-end">Ankit Kumar (IT 2K19)</p>
+            <p className="font-bold md:text-lg text-end">
+              Ankit Kumar (IT 2K19)
+            </p>
           </div>
         </div>
       </div>
